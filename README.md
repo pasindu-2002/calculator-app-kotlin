@@ -31,6 +31,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshot
 
-<img src="https://github.com/user-attachments/assets/8e9aef59-dc9c-4d41-ac50-815dd1b0bc53" width="30%" alt="Screenshot 1"/>
+<img src="https://github.com/user-attachments/assets/8f4e596d-d1fb-4153-a4b0-3788299fe52b" width="30%" alt="Screenshot 1"/>
 
 
